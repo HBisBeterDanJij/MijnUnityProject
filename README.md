@@ -1,4 +1,4 @@
 examples stuff
 
 ## voorbeelended
-[watisdit](docs/example.gif)
+![watisdit](docs/example.gif)
